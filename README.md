@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michellevillaca
 - 👀 I’m interested in learning and trying new things (that's how I ended up here)
-- 🌱 I’m currently learning Python from the YouTube channel "Curso em Vídeo'
+- 🌱 I've already learned Python and now I’m currently learning HTML & CSS from the YouTube channel "Curso em Vídeo'
 - 💞️ I’m looking to collaborate on exercises and challenges for learning purposes, once I'm still new to all of this haha
 - 📫 How to reach me: you can follow me on Instagram: @michelleandry
 - 😄 Pronouns: she/her
